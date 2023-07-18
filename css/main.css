@@ -1,0 +1,15 @@
+html {
+  scroll-behavior: smooth;
+}
+.nav-custom:hover{
+  color: red;
+}
+.nav-custom{
+  color: black;
+}
+.accordion-button:hover{
+  color: red;
+}
+.list{
+  margin-left: 40px;
+}
